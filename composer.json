@@ -1,5 +1,5 @@
 {
-  "name": "jenkinsPhpApi",
+  "name": "jenkins_php_api",
     "type": "library",
     "description": "Jenkins PHP API",
     "keywords": ["jenkins", "api"],
